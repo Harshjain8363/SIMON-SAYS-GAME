@@ -1,0 +1,82 @@
+.game,h2,.part1,.part2{
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
+.game{
+   margin-left: 65px ;
+   margin-top: 10px;
+}
+
+.btn{
+    height: 180px;
+    width: 180px;
+    margin: 15px;
+    border: 6px solid #000000;
+    border-radius: 20px;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.pink{
+    background-color: palevioletred;
+}
+
+.skyblue{
+    background-color: skyblue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+
+
+.flash{
+    background-color: #fff;
+}
+
+.userflash{
+    background-color: chocolate;
+}
+
+.btn:hover{
+    height: 170px;
+    width: 170px;
+    cursor: pointer;
+}
+
+.purple:hover{
+    margin-right: 25px;
+}
+
+.pink:hover{
+    margin-left: 25px;
+}
+.skyblue:hover{
+    margin-right: 25px;
+}
+.yellow:hover{
+    margin-left: 25px;
+}
+
+.headings{
+    font-size: 30px;
+    display: flex;
+}
+
+h3,h4{
+    border: 5px solid black;
+    margin: 5px;
+    padding:8px; 
+    background-color: rgb(233, 187, 122);
+    border-radius: 10px;
+    padding-top: 15px;
+}
+
+
